@@ -16,10 +16,10 @@ NOTE: '-' character used as an option sign under Linux/Mac, '/' character under 
 
 Test sample with ESCParser produces the following result (converted to PNG):
 
-![](https://github.com/nzeemin/ukncbtl-utils/blob/master/ESCParser/ESCParser.png)
+![](https://github.com/nzeemin/escparser/blob/master/ESCParser.png)
 
 #### See Also
 
-* [https://github.com/nzeemin/robotron-dotmatrix-font] — Robotron dot matrix printer font as a web font
+* [nzeemin/robotron-dotmatrix-font](https://github.com/nzeemin/robotron-dotmatrix-font) — Robotron dot matrix printer font as a web font
 * [shokre/node-escprinter](https://github.com/shokre/node-escprinter) — "ESC/P2 printer command emulator with SVG output.", ESCParser NodeJS conversion by shokre.
 * [epsonps](https://github.com/christopherkobayashi/TI99Utilities/tree/master/printer_listener/epsonps)
